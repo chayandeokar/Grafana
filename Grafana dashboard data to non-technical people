@@ -1,0 +1,16 @@
+2. How would you explain Grafana dashboard data to non-technical people?
+Answer:
+
+When explaining Grafana dashboard data to non-technical people, focus on clarity and relevance. Use the following approach:
+
+Simplify Technical Terms: Avoid jargon and explain technical terms in simple language. For example, instead of "CPU utilization," say "how much of the computer's processing power is being used."
+
+Use Visual Aids: Rely on graphs, charts, and color coding to convey information. Highlight trends with arrows or annotations. For example, use green for "good" performance and red for "issues."
+
+Relate to Business Impact: Explain how the data affects the business. For example, "This graph shows our website’s response time. When the line goes up, it means the website is slower, which can lead to frustrated customers."
+
+Focus on Key Metrics: Identify and explain the most important metrics that matter to the audience. For instance, discuss uptime percentages, response times, and error rates in terms of their impact on customer satisfaction.
+
+Tell a Story: Use the data to tell a story. For instance, "Last week, we had an increase in visitors, shown here by the spike in traffic. This caused the server load to increase, shown by this graph. However, our system handled it well, as the response time stayed within acceptable limits."
+
+By making the data relatable and understandable, non-technical stakeholders can better appreciate the insights provided by Grafana dashboards.
