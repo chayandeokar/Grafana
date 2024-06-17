@@ -1,7 +1,5 @@
 1. Your company is migrating to a new cloud platform. How would you use Grafana to monitor the migration?
-Answer:
-
-To monitor the migration to a new cloud platform using Grafana, follow these steps:
+Answer: To monitor the migration to a new cloud platform using Grafana, follow these steps:
 
 --> Set Up Data Sources: Connect Grafana to data sources from both the old and new platforms. These might include databases, cloud monitoring tools (such as CloudWatch, Azure Monitor, etc.), and logging systems (like Elasticsearch or Loki).
 
