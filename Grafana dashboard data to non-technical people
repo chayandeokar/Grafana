@@ -1,7 +1,5 @@
 2. How would you explain Grafana dashboard data to non-technical people?
-Answer:
-
-When explaining Grafana dashboard data to non-technical people, focus on clarity and relevance. Use the following approach:
+Answer: When explaining Grafana dashboard data to non-technical people, focus on clarity and relevance. Use the following approach:
 
 Simplify Technical Terms: Avoid jargon and explain technical terms in simple language. For example, instead of "CPU utilization," say "how much of the computer's processing power is being used."
 
